@@ -4,17 +4,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=3rd+Year+CSE+Student+from+India;Full-Stack+Developer+%7C+AI+Enthusiast;Always+Curious+%7C+Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=650&lines=4th+Year+CSE+Student+from+India;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast;Always+Curious+%7C+Always+Learning" />
 </p>
 
 ---
 
 ## 🌟 About Me
-🎓 **4rd-Year CSE Student** from India  
-🚀 Currently building **full-stack projects** & exploring **AI/ML**  
-🌱 Learning **React.js, Node.js, and cloud deployment**  
-💬 Open to collaborating on **web dev, AI, and open-source projects**  
-☕ Fueled by **caffeine & curiosity**  
+🎓 **4th-Year Computer Science Engineering Student** from India  
+🚀 Currently building **full-stack** and **AI/ML projects**  
+🌱 Learning **Docker, cloud deployment (AWS/GCP)**, and advanced backend systems  
+💬 Open to collaborating on **web development, AI/ML, and open-source**  
+☕ Powered by **caffeine, curiosity, and late-night debugging**  
 
 ---
 
@@ -28,12 +28,13 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Tools & Frameworks**  
+**Frameworks & Tools**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
@@ -62,10 +63,10 @@
 ---
 
 ## 🎯 Current Goals
-- 📌 Build more **real-world AI & web apps**  
-- 📌 Learn **Docker, deployment & cloud services**  
-- 📌 Contribute to **open-source**  
-- 📌 Land an **internship** where I can grow & contribute  
+- 📌 Build production-grade **AI-powered applications**  
+- 📌 Master **Docker, CI/CD, and cloud deployments**  
+- 📌 Contribute to **open-source AI and web projects**  
+- 📌 Land a **full-time role** in software development or AI engineering  
 
 ---
 
