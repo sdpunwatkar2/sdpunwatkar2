@@ -45,20 +45,27 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantanupunwatkar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=shantanupunwatkar&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sdpunwatkar2&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sdpunwatkar2&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantanupunwatkar&theme=tokyonight" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdpunwatkar2&theme=tokyonight" width="96%" />
 </div>
 
 ---
 
 ## 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shantanupunwatkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sdpunwatkar2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sdpunwatkar2&label=Profile%20Views&color=brightgreen&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/sdpunwatkar2?style=social" />
+</p>
 
 ---
 
