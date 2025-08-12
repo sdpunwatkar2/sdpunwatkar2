@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me
-🎓 **3rd-Year CSE Student** from India  
+🎓 **4rd-Year CSE Student** from India  
 🚀 Currently building **full-stack projects** & exploring **AI/ML**  
 🌱 Learning **React.js, Node.js, and cloud deployment**  
 💬 Open to collaborating on **web dev, AI, and open-source projects**  
